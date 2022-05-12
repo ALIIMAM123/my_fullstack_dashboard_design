@@ -1,41 +1,41 @@
 export const userInputs = [
     {
-      id: 1,
+      id: "username",
       label: "Username",
       type: "text",
       placeholder: "Enter Username",
     },
     {
-      id: 2,
+      id: "displayName",
       label: "Name and surname",
       type: "text",
       placeholder: "Enter Name",
     },
     {
-      id: 3,
+      id: "email",
       label: "Email",
       type: "mail",
       placeholder: "ali imam@gmail.com",
     },
     {
-      id: 4,
+      id: "phone",
       label: "Phone",
       type: "text",
       placeholder: "+1 234 567 89",
     },
     {
-      id: 5,
+      id: "password",
       label: "Password",
       type: "password",
     },
     {
-      id: 6,
+      id: "address",
       label: "Address",
       type: "text",
       placeholder: "D-167 Noida sector 27 , Up ",
     },
     {
-      id: 7,
+      id: "country",
       label: "Country",
       type: "text",
       placeholder: "India",
